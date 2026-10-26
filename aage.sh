@@ -10,3 +10,4 @@ elif (( $age >= 12 && $age <= 17 )); then
 else
         echo "vous êtes un adulte"
 fi
+echo "bug"
