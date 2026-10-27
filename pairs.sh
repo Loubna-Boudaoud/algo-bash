@@ -1,4 +1,5 @@
 #!/bin/bash
+#script qui affiche les nombres impairs
 #script qui afficge les nombres pairs
 nombres=(4 7 10 13 22 35)
 pair=0
